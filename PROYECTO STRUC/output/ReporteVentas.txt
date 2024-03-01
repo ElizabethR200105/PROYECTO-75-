@@ -1,0 +1,12 @@
+AUTO PREMIER: REPORTE DE VENTAS DEL MES
+Empleado: Elizabeth Beatriz Requena Alania
+
+Autos Vendidos:
+HYUNDAI Accent	 s/ 19000.00
+NISSAN Versa	 s/ 18000.00
+FORD Fiesta	 s/ 17000.00
+
+Ganancia Total: 	 s/ 54000.00
+Sueldo Base: 	 s/ 1200.00
+Comisión por ventas: 	 s/ 2700.00
+Sueldo Total del Mes: 	 s/ 3900.00

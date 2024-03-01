@@ -1,0 +1,22 @@
+AUTOS PREMIER
+Jr. Amazonas cuadra: 6
+Contactenos al 555-1234
+
+DATOS CLIENTE:
+Cliente	: JUBER ZEGARRA
+DNI		: 12345
+Numero	: 1238273
+
+DATOS EMPLEADO:
+Empleado	: Brandon Jhoel Mendoza Vega
+Codigo		: 202402
+
+DETALLES DEL AUTO:
+Marca: Ford
+Modelo: Focus
+Precio: $20000.00
+Descripcion			: Ford Focus
+Precio Contado		: 20000.00
+Interes Credito		: 2000.00
+Pago mensual		: 1833.33
+Precio Total		: 22000.00
